@@ -9,7 +9,7 @@ Executar o comando no terminal:
 docker-compose up -d
 ```
 
-Para se conectar no banco, utilize o Microsoft SQL Server Management Studio ou Azure Data Studio com as seguintes informações:
+Para se conectar no banco, utilize o Microsoft SQL Server Management Studio ou Azure Data Studio com as seguintes credenciais:
 
 Server: localhost  
 User: sa  
